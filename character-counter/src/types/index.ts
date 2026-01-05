@@ -1,4 +1,3 @@
-// src/types/index.ts
 
 export interface TextInputProps {
   onTextChange: (text: string) => void;
